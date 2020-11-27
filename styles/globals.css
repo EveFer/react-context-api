@@ -14,3 +14,9 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.img-style {
+  height: 260px;
+  object-fit: cover;
+  object-position: center;
+}
